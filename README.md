@@ -12,3 +12,5 @@
 - src/prev/coin.js : useState, useEffect의 복습을 위한 가상화폐 목록, 기축통화 환율 계산기 만들기
 - src/prev/Button.js : 리액트에서 css를 사용하는 방법을 아주 잠깐 알아봄
 - src/prev/cleanup.js : 리액트에서의 onDestroy 구현방법을 아주 잠깐 알아봄
+
+> https://tesla9512.github.io/react-movie-practice/
